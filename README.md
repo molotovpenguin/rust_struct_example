@@ -1,0 +1,1 @@
+# Example of a program using structs from The Rust Book.
